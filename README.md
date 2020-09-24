@@ -15,6 +15,9 @@ In the scatter Plot:
 * I have included state abbreviations in the circles
 * axes and labels are created to the left and bottom of the chart.
 * Each axes provides clickable lables to change the datapoints to according to the label.
+* Tooltips are added on the circles to make some information avialable to check.
+
+To check it out in action click on this link : 
 
 ![gif](https://github.com/shaveta08/D3-Challenge/blob/master/animated-scatter.gif)
 
