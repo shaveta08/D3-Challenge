@@ -16,5 +16,5 @@ In the scatter Plot:
 * axes and labels are created to the left and bottom of the chart.
 * Each axes provides clickable lables to change the datapoints to according to the label.
 
-![gif](https://waustralia.bootcampcontent.com/the-university-of-western-australia/waus-perth-data-pt-06-2020-u-c/raw/master/02-Homework/16-D3/Instructions/Images/7-animated-scatter.gif)
+![gif](https://github.com/shaveta08/D3-Challenge/blob/master/animated-scatter.gif)
 
